@@ -49,7 +49,6 @@ follow(a[k][0]);
 else if(islower(a[k][2]))
 f[m++]=a[k][2];
 else first(a[k][2]);
-
 }
 }
 }
